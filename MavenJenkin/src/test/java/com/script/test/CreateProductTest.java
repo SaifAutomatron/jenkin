@@ -17,5 +17,11 @@ public class CreateProductTest {
 	{
 		System.out.println("Product deleted");
 	}
+	
+	@Test
+	public void modifiyProduct()
+	{
+		System.out.println("Product Modified");
+	}
 
 }
